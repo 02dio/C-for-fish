@@ -24,5 +24,8 @@
     <ClCompile Include="class3.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
